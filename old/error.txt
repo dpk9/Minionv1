@@ -1,0 +1,6 @@
+te': 1, 'type': 1}, {'waitsecs': 5, 'toportreagent': 'Output 1', 'volume': 1000, 'toport': 8, 'cmdnumber': 77, 'speed': 16, 'cycle': 2, 'waitmins': 5, 'temp': 25, 'heatwhen': 0, 'fromport': 3, 'pump': '/dev/ttyUSB1', 'fromportreagent': '1x instrument buffer 1', 'waste': 1, 'type': 1}, {'waitsecs': 5, 'toportreagent': 'Waste 1', 'volume': 300, 'toport': 9, 'cmdnumber': 78, 'speed': 30, 'cycle': 2, 'waitmins': 0, 'temp': 25, 'heatwhen': 0, 'fromport': 8, 'pump': '/dev/ttyUSB1', 'fromportreagent': 'Output 1', 'waste': 0, 'type': 0}, {'waitsecs': 5, 'toportreagent': 'Waste 2', 'volume': 300, 'toport': 9, 'cmdnumber': 79, 'speed': 30, 'cycle': 2, 'waitmins': 0, 'temp': 25, 'heatwhen': 0, 'fromport': 8, 'pump': '/dev/ttyUSB0', 'fromportreagent': 'Output 2', 'waste': 0, 'type': 0}, {'waitsecs': 5, 'toportreagent': 'Output 1', 'volume': 130, 'toport': 8, 'cmdnumber': 80, 'speed': 16, 'cycle': 2, 'waitmins': 0, 'temp': 25, 'heatwhen': 0, 'fromport': 3, 'pump': '/dev/ttyUSB1', 'fromportreagent': '1x instrument buffer 1', 'waste': 0, 'type': 0}]
+pi@raspberrypi ~/tecan/minion $ ound cmd with appropriate cycle
+bash: ound: command not found
+pi@raspberrypi ~/tecan/minion $ True
+bash: True: command not found
+
